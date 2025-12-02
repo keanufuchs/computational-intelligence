@@ -1,1 +1,7 @@
-data/
+#Ignore Training data directory
+data/organized_images/
+data/playing-cards/
+data/*.zip
+
+# Ignore Keras model files
+*.keras
